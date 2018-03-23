@@ -1,0 +1,23 @@
+.body{
+  min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-image:url('http://www.kinyu-z.net/data/wallpapers/109/1084187.jpg');
+}
+
+.mainHeading{
+  text-align:center;
+  font-family: 'Limelight', cursive;
+  color: #F5F5F5;
+}
+
+.buttonDiv{
+  padding: 50px;
+}
+
+.table{
+  margin-top: 50px;
+  padding: 50px;
+}
