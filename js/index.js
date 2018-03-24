@@ -33,7 +33,7 @@ $('.saveButton').click(function() {
     console.log("hi");
     f = 1;
   }
-  //$('.formBody').trigger('reset');
+  $('.formBody').trigger('reset');
 });
 $('.deleteButton').click(function() {
 
